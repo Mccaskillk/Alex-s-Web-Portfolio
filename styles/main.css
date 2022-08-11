@@ -2,9 +2,7 @@ header {
     background-color: rgba(26,219,214,1);
     padding: 2%
 
-    
-
-}
+    }
 
 h1 {
     color: rgb(244, 244, 244);
@@ -18,26 +16,51 @@ p {
 .navbar-nav {
 
     text-align: center;
-    padding: 2%;
+    padding: 3%;
 }
 
  .myPic {
     max-width: 10%;
+    
+
  }
  .navWork {
     padding: 6%;
     font-size: 30px;
+    color: aliceblue;
 
  }
  .navContactMe {
     padding: 6%;
     font-size: 30px;
+    color: aliceblue;
 
  }
  .navAboutMe {
     padding: 6%;
     font-size: 30px;
+    color: aliceblue;
+    
 
- 
- 
+    }  .navbar-nav {
+        background-color: black;
+    
+    }
+    .workSection {
+        text-align: center;
+        font-size:25px;
+        font: 800;
+        color: rgb(0, 136, 255);
 
+    
+    }.aboutMe {
+        text-align: center;
+        font-size: 25px;
+        color: rgb(0, 136, 255);
+
+    } .contactMe {
+        text-align: Center;
+        font-size: 25px;
+        color: rgb(0, 136, 255);
+    }body {
+        background-color: black;
