@@ -1,0 +1,22 @@
+header {
+    background-color: powderblue;
+}
+
+h1 {
+    color: rgb(26, 26, 219);
+    text-align: center;
+}
+
+p {
+    color: red;
+}
+
+.navbar-nav {
+
+    text-align: center;
+    padding: 2%;
+}
+
+ .myPic {
+    height: 20%;
+ }
