@@ -1,9 +1,13 @@
 header {
-    background-color: powderblue;
+    background-color: rgba(26,219,214,1);
+    padding: 2%
+
+    
+
 }
 
 h1 {
-    color: rgb(26, 26, 219);
+    color: rgb(244, 244, 244);
     text-align: center;
 }
 
@@ -18,5 +22,22 @@ p {
 }
 
  .myPic {
-    height: 20%;
+    max-width: 10%;
  }
+ .navWork {
+    padding: 6%;
+    font-size: 30px;
+
+ }
+ .navContactMe {
+    padding: 6%;
+    font-size: 30px;
+
+ }
+ .navAboutMe {
+    padding: 6%;
+    font-size: 30px;
+
+ 
+ 
+
