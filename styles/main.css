@@ -44,7 +44,8 @@ p {
     color: aliceblue;
     
 
-    }  .navbar-nav {
+    }  
+    .navbar-nav {
         background-color: black;
     
     }
@@ -55,17 +56,21 @@ p {
         color: rgb(0, 136, 255);
 
     
-    }.aboutMe {
+    }
+    .aboutMe {
         text-align: center;
         font-size: 25px;
         color: rgb(0, 136, 255);
 
-    } .contactMe {
+    } 
+    .contactMe {
         text-align: Center;
         font-size: 25px;
         color: rgb(0, 136, 255);
     }body {
-        background-color: black;
+        background-color: rgb(54, 61, 81);
      
-        ";
-
+    }
+.contactMe{
+    text-align: center;
+    padding: 40%;
