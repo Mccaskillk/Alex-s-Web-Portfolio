@@ -1,12 +1,16 @@
 header {
     background-color: rgba(26,219,214,1);
-    padding: 2%
+    height: ;
+    display: flex;
+justify-content: space-between;
 
     }
 
 h1 {
     color: rgb(244, 244, 244);
-    text-align: center;
+    align-items: 
+    
+
 }
 
 p {
@@ -19,11 +23,15 @@ p {
     padding: 3%;
 }
 
+.bookpicker {
+   width: 900px;
+   padding: 80px;
+   float: right;
+}
+
  .myPic {
-    max-width: 10%;
-    padding-right: 40%;
-    flex: 20PX;
-    
+    width: 200px;
+   
 
  }
  .navWork {
@@ -69,8 +77,11 @@ p {
         color: rgb(0, 136, 255);
     }body {
         background-color: rgb(54, 61, 81);
+        
      
     }
 .contactMe{
     text-align: center;
     padding: 40%;
+
+}
